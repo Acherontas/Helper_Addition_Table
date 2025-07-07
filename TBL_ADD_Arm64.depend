@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1738344206 source:/home/acherontas/codeblock/TBL_ADD_Arm64/main.cpp
+	<iostream>
+	"find_at_tbl.h"
+	"rules_tbl.h"
+	"fix_one.h"
+
+1738336205 /home/acherontas/codeblock/TBL_ADD_Arm64/find_at_tbl.h
+
+1738336510 /home/acherontas/codeblock/TBL_ADD_Arm64/rules_tbl.h
+
+1738336510 source:/home/acherontas/codeblock/TBL_ADD_Arm64/rules_tbl.cpp
+	"rules_tbl.h"
+	<iostream>
+
+1738336707 source:/home/acherontas/codeblock/TBL_ADD_Arm64/find_at_tbl.cpp
+	"find_at_tbl.h"
+	"rules_tbl.h"
+	<math.h>
+	<iostream>
+
+1738085516 source:/home/acherontas/codeblock/TBL_ADD_Arm64/i_dont_know.cpp
+	"i_dont_know.h"
+
+1738085601 /home/acherontas/codeblock/TBL_ADD_Arm64/i_dont_know.h
+
+1738343052 /home/acherontas/codeblock/TBL_ADD_Arm64/fix_one.h
+	<string>
+
+1738345129 source:/home/acherontas/codeblock/TBL_ADD_Arm64/fix_one.cpp
+	"fix_one.h"
+	<string>
+	<iostream>
+

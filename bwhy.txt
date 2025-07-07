@@ -1,0 +1,263 @@
+warning not finished 
+enter equal length numbers
+if not equal lenght use zeroes in front of number
+enter number one 
+enter number two 
+enter sxolia 0 or 1 
+Splitting and passing 5 5 the position is : 8
+
+using 5 and 5
+
+@3 ---> rule three 0 || 
+@6 ---> r six 0 || 
+@9 ---> r nine 0 
+ check nine result 9 || check equal result 1
+searching tables with 5 and 5
+5 1
+range is greater than 9 numbers are equals
+setting z from 1 to 10
+for 5 and 5 with z 0
+ @0--------> epistrefoume timi 0 me kratoumeno 1 teliki timi 0
+
+da z is 0
+------------------------>with final value 0 <-----------------
+
+Splitting and passing 8 1 the position is : 7
+
+using 8 and 1
+
+@3 ---> rule three 0 || 
+@6 ---> r six 0 || 
+@9 ---> r nine 0 
+ check nine result 8 || check equal result 2
+searching tables with 8 and 1
+8 8
+range lower than 9 for z 9
+for 8 and 1 with z 9
+ @1------------> epistrefoume teliki timi 9 auxanoume me kratoumeno 1 teliki timi 10
+
+da z is 9
+------------------------>with final value 10 <-----------------
+
+Splitting and passing 1 8 the position is : 6
+
+using 1 and 8
+
+@3 ---> rule three 0 || 
+@6 ---> r six 0 || 
+@9 ---> r nine 0 
+ check nine result 8 || check equal result 2
+searching tables with 1 and 8
+1 8
+range lower than 9 for z 9
+for 1 and 8 with z 9
+
+da z is 9
+ @-1---------> epistrefoume teliki timi 9
+------------------------>with final value 9 <-----------------
+
+Splitting and passing 3 6 the position is : 5
+
+using 3 and 6
+
+@3 ---> @3 setting 6 and 3
+rule three 3 || 
+@6 ---> @6 setting 3 and 6
+r six 6 || 
+@9 ---> r nine 0 
+ check nine result 8 || check equal result 2
+searching tables with 3 and 6
+range lower than 9 for z 9
+for 3 and 6 with z 9
+
+da z is 9
+ @-1---------> epistrefoume teliki timi 9
+------------------------>with final value 9 <-----------------
+
+Splitting and passing 4 5 the position is : 4
+
+using 4 and 5
+
+@3 ---> rule three 0 || 
+@6 ---> r six 0 || 
+@9 ---> r nine 0 
+ check nine result 8 || check equal result 2
+searching tables with 4 and 5
+4 8
+range lower than 9 for z 9
+for 4 and 5 with z 9
+
+da z is 9
+ @-1---------> epistrefoume teliki timi 9
+------------------------>with final value 9 <-----------------
+
+Splitting and passing 5 4 the position is : 3
+
+using 5 and 4
+
+@3 ---> rule three 0 || 
+@6 ---> r six 0 || 
+@9 ---> r nine 0 
+ check nine result 8 || check equal result 2
+searching tables with 5 and 4
+5 8
+range lower than 9 for z 9
+for 5 and 4 with z 9
+
+da z is 9
+ @-1---------> epistrefoume teliki timi 9
+------------------------>with final value 9 <-----------------
+
+Splitting and passing 8 1 the position is : 2
+
+using 8 and 1
+
+@3 ---> rule three 0 || 
+@6 ---> r six 0 || 
+@9 ---> r nine 0 
+ check nine result 8 || check equal result 2
+searching tables with 8 and 1
+8 8
+range lower than 9 for z 9
+for 8 and 1 with z 9
+
+da z is 9
+ @-1---------> epistrefoume teliki timi 9
+------------------------>with final value 9 <-----------------
+
+Splitting and passing 7 2 the position is : 1
+
+using 7 and 2
+
+@3 ---> rule three 0 || 
+@6 ---> r six 0 || 
+@9 ---> r nine 0 
+ check nine result 8 || check equal result 2
+searching tables with 7 and 2
+7 8
+range lower than 9 for z 9
+for 7 and 2 with z 9
+
+da z is 9
+ @-1---------> epistrefoume teliki timi 9
+------------------------>with final value 9 <-----------------
+
+Splitting and passing 2 7 the position is : 0
+
+using 2 and 7
+
+@3 ---> rule three 0 || 
+@6 ---> r six 0 || 
+@9 ---> r nine 0 
+ check nine result 8 || check equal result 2
+searching tables with 2 and 7
+2 8
+range lower than 9 for z 9
+for 2 and 7 with z 9
+ @2-----pos-----> epistrefoume teliki timi 9
+
+da z is 9
+------------------------>with final value 9 <-----------------
+
+
+for 278543185 + 721456815 = 1000000000
+9 9 9 9 9 9 9 10 0 
+
+using pos of 0
+
+enter fix with int 0
+exiting with value of 0 and tmp 0
+moving with mlfi value of 0 and tmp 0
+
+number  0 
+         --------> 0
+
+using pos of 1
+
+enter fix with int 10
+exiting with value of 0 and tmp 1
+moving with mlfi value of 0 and tmp 1
+
+number  0 
+         --------> 1
+
+using pos of 2
+
+enter fix with int 9
+exiting with value of 9 and tmp 1
+moving with mlfi value of 9 and tmp 1
+
+enter fix with int 10
+
+number  0 
+         --------> 1
+
+using pos of 3
+
+enter fix with int 9
+exiting with value of 9 and tmp 1
+moving with mlfi value of 9 and tmp 1
+
+enter fix with int 10
+
+number  0 
+         --------> 1
+
+using pos of 4
+
+enter fix with int 9
+exiting with value of 9 and tmp 1
+moving with mlfi value of 9 and tmp 1
+
+enter fix with int 10
+
+number  0 
+         --------> 1
+
+using pos of 5
+
+enter fix with int 9
+leave as is 
+exiting with value of 9 and tmp 1
+moving with mlfi value of 9 and tmp 1
+
+enter fix with int 10
+leave as is 
+
+number  10 
+         --------> 1
+
+using pos of 6
+
+enter fix with int 9
+exiting with value of 9 and tmp 1
+moving with mlfi value of 9 and tmp 1
+
+enter fix with int 10
+
+number  0 
+         --------> 1
+
+using pos of 7
+
+enter fix with int 9
+exiting with value of 9 and tmp 1
+moving with mlfi value of 9 and tmp 1
+
+enter fix with int 10
+
+number  0 
+         --------> 1
+
+using pos of 8
+
+enter fix with int 9
+leave as is 
+exiting with value of 9 and tmp 1
+moving with mlfi value of 9 and tmp 1
+
+number  10 
+         --------> 0
+
+
+10 0 0 10 0 0 0 0 0 
