@@ -6,8 +6,9 @@ The proof is not one its a lot of them.
 The main table can be used with a little modification
 for an other purpose.
 
-Its not a code.
-And u will not see a code based app for these staff in here.
+//Its not a code.
+//And u will not see a code based app for these staff in here.
+i Add a code but need some fix 
 U can stole it but afterward u will have to pay.
 
 Just like a silent behaviour applied anti-stolen
